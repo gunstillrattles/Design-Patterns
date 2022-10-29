@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<users>
+    <user id = "01">
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <nickname>johndoe</nickname>
+        <age>25</age>
+    </user>
+
+    <user id = "02">
+        <firstname>Johnny</firstname>
+        <lastname>Depp</lastname>
+        <nickname>johhnydep</nickname>
+        <age>40</age>
+    </user>
+
+    <user id = "03">
+        <firstname>Will</firstname>
+        <lastname>Smith</lastname>
+        <nickname>willsmith</nickname>
+        <age>45</age>
+    </user>
+</users>

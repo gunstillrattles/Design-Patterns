@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname" : "John",
+      "lastname"  : "Doe",
+      "nickname"  : "johndoe",
+      "age"       : 25
+    },
+    {
+      "id": 2,
+      "firstname" : "Johnny",
+      "lastname"  : "Depp",
+      "nickname"  : "johnnydepp",
+      "age"       : 40
+    },
+    {
+      "id": 3,
+      "firstname" : "Will",
+      "lastname"  : "Smith",
+      "nickname"  : "wilsmith",
+      "age"       : 45
+    }
+  ]
+}
